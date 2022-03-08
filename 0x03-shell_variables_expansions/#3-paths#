@@ -1,0 +1,2 @@
+s#!/bin/bash
+eTH | tr : n | wc -l
